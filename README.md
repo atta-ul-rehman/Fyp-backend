@@ -1,6 +1,6 @@
 # Fyp-backend
-key featuers
-email verification
-socket io integration
-mailgun
-cloudinary
+**key featuers**<br/>
+- email verification
+- socket io integration
+- mailgun
+- cloudinary
